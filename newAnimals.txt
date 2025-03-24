@@ -1,0 +1,15 @@
+Animal Report:
+Lion: Mufasa (5 years old)
+Tiger: Scar (5 years old)
+Hyena: Shenzi (4 years old)
+Bear: Baloo (4 years old)
+Lion: Simba (2 years old)
+Tiger: Kiara (5 years old)
+Bear: Winnie (6 years old)
+Hyena: Banzai (3 years old)
+
+Species Total Count:
+Lion: 2
+Tiger: 2
+Hyena: 2
+Bear: 2

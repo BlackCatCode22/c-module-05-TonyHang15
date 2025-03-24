@@ -1,0 +1,8 @@
+Mufasa 5 Lion
+Scar 5 Tiger
+Shenzi 4 Hyena
+Baloo 4 Bear
+Simba 2 Lion
+Kiara 5 Tiger
+Winnie 6 Bear
+Banzai 3 Hyena
